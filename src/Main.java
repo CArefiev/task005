@@ -8,7 +8,7 @@ public class Main {
     public static void prod (int a, int b) {
         System.out.println(a*b);
     }
-  
+
 
     public static Double factorial(Integer a) {
 
@@ -23,7 +23,7 @@ public class Main {
         System.out.println("Hello world!");
         sum(10,20);
         prod(10,20);
-   
+
         System.out.println(factorial(5));
 
     }
